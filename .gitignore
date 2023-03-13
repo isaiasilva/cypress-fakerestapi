@@ -1,0 +1,15 @@
+#dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+#testing
+/coverage
+cypress/screenshots
+
+#misc
+.DS_Store
+*.pem
+
+#logs
+logs*.log
